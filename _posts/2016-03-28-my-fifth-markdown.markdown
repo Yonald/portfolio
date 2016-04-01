@@ -4,6 +4,7 @@ title:  "My fifth Markdown"
 date:   2016-03-28 14:11:39 +0100
 categories: jekyll update
 featured: true
+tags: fa-heart
 ---
 
 # Et est
