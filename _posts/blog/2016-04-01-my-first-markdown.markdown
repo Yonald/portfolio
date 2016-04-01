@@ -2,7 +2,7 @@
 layout: post
 title:  "My first Markdown"
 date:   2016-04-01 14:11:39 +0100
-categories: jekyll update
+categories: blog
 tags: fa-paint-brush fa-heart
 ---
 

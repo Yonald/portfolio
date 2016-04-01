@@ -2,7 +2,7 @@
 layout: post
 title:  "My fourth Markdown"
 date:   2016-03-25 14:11:39 +0100
-categories: jekyll update
+categories: blog
 tags: fa-paint-brush
 ---
 
