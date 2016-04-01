@@ -4,6 +4,7 @@ title:  "My fifth Markdown"
 date:   2016-03-28 14:11:39 +0100
 categories: project
 featured: true
+featured_image: "images/project_2.png"
 tags: fa-heart
 ---
 
