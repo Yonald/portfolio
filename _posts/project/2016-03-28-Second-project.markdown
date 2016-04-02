@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Bootstrap project"
+title:  "Random Bootstrap project"
 date:   2016-02-23 20:54:00 +0100
 categories: project
 featured: true
