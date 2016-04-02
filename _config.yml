@@ -3,7 +3,7 @@ title: Portfolio
 email: nornahh@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Web Developer creating a new awesome personal website using Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
