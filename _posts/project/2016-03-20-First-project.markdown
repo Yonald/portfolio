@@ -4,7 +4,7 @@ title:  "My first project"
 date:   2016-03-20 14:11:39 +0100
 categories: project
 featured: true
-featured_image: "/images/project_1.png"
+featured_image: "/images/project_2.png"
 tags: fa-paint-brush fa-code
 
 ---
