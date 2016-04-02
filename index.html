@@ -4,6 +4,16 @@ layout: default
 
 <div class="home">
 
+<! -- section for featured projects -->
+<section class="site-section">
+  <h1>Featured Projects</h1>
+  <ul class="project-list">
+    {% for project in site.categories['project'] reversed | limit: 3 %}
+      {% include project.html %}
+    {% endfor %}
+  </ul>
+</section>
+
 <! -- section for featured posts -->
 <section class="site-section">
   <div class="wrapper">
@@ -18,16 +28,6 @@ layout: default
         {% endif %}
       {% endfor %}
   </div>
-</section>
-
-<! -- section for featured projects -->
-<section class="site-section">
-  <h1>Featured Projects</h1>
-  <ul class="project-list">
-    {% for project in site.categories['project'] reversed | limit: 3 %}
-      {% include project.html %}
-    {% endfor %}
-  </ul>
 </section>
 
 <! -- section for latest articles -->
