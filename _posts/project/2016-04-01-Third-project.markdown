@@ -4,7 +4,7 @@ title:  "My third project"
 date:   2016-04-01 14:11:39 +0100
 categories: project
 tags: fa-paint-brush fa-heart
-featured_image: "../images/project_3.png"
+featured_image: "/images/project_3.png"
 ---
 
 # Ipsa nec
