@@ -10,11 +10,11 @@ permalink: /about/
 
 My skill include:
 
-*Advanced understanding of major Internet protocols and languages: HTTP, HTML5, Web Services, SOAP, CSS3, XML and JSON
-*Working knowledge of SQL, including ability to author ad-hoc database queries
-*Working knowledge of Windows and UNIX operating systems.
-*Advanced understanding of payment APIs and payment systems integration standards
-*Experience with template processing systems such as Template-toolkit(TT2) and Jekyll
-*Advanced QA of PERL and JAVA based systems
+- Advanced understanding of major Internet protocols and languages: HTTP, HTML5, Web Services, SOAP, CSS3, XML and JSON
+- Working knowledge of SQL, including ability to author ad-hoc database queries
+- Working knowledge of Windows and UNIX operating systems.
+- Advanced understanding of payment APIs and payment systems integration standards
+- Experience with template processing systems such as Template-toolkit(TT2) and Jekyll
+- Advanced QA of PERL and JAVA based systems
 
 In my spare gym I attend a local powerlifting gym in the evenings and go skateboarding with my Siberian Husky, Cass.
