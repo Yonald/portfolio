@@ -14,4 +14,7 @@ I decided that this year since Jess and I have been dating for coming up to 2 ye
 
 It needed to be responsive since Jess spends more time browsing the internet on the phone than on her desktop.
 
-### [Click here to view the app](https://f72ccb193b1e71f07d02652e153e76e853ef90dd.googledrive.com/host/0ByXEoNSdUD43dVBnQTJ6TVNIbEU/)
+<h3>
+    <a href="https://f72ccb193b1e71f07d02652e153e76e853ef90dd.googledrive.com/host/0ByXEoNSdUD43dVBnQTJ6TVNIbEU/" target="_blank">Click here to view the app</a>
+
+</h3>
