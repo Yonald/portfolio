@@ -7,7 +7,7 @@ baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-google_username: /nornahh
+linkedin_username: yon-brooks-a7536797
 
 permalink: /:categories/:title
 
