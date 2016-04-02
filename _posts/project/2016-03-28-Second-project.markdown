@@ -1,37 +1,20 @@
 ---
 layout: post
-title:  "My second project"
-date:   2016-03-28 14:11:39 +0100
+title:  "First Bootstrap project"
+date:   2016-02-23 20:54:00 +0100
 categories: project
 featured: true
 featured_image: "/images/project_2.png"
 tags: fa-heart
 ---
 
-# Et est
+## Bootstrap 3
 
-## Ripam hirta quondam suos praedae bis cecini
+Bootstrap has been around for years now however I haven't had much of a chance to really make something from scratch with it. Sure I've used some CDNs from [Bootswatch](https://bootswatch.com/) for some of the dailyui challenges however I wanted to make a real page.
 
-Lorem markdownum Hister trita Cythereius clavae. Manu edita dummodo flavam
-*hiems* dicitur flexit, se partim adhibere fluminaque; es fuerat multorumque
-facto contraria **dextera**?
+The idea came from an office joke which I played on one of my coleagues and the buttons link are strickly innocent!
 
-> Pro repetam tyranni fratrum sacris. Tonanti vocatum capillis genuisse
-> circumtulit egit, hic pars formicas, avia vel dulcedine arcum, pia in Cenaeo.
+<h3>
+    <a href="https://5464fc43e8a3124880d20db1ed5ca8b42939af26.googledrive.com/host/0ByXEoNSdUD43bUN6dnpyRW5qOU0/" target="_blank">Click here to view the app</a>
 
-## Sub in vomit probro et pudore sinus
-
-Stipite ossa, cui tum [tu tui non](http://hipstermerkel.tumblr.com/) has hausit
-auribus inpune cogeret, te. Et amplexus tecto inmemores et *undis sagittas*, tua
-voce frequens sigillis; palantesque ille! Quae non mea vero priora crudelibus
-*geminata*, haud modo arvis ubique, volucres.
-
-## Peregit meruit nondum ad gloria cornua
-
-Adde verum pectoribus nebulas promisistis **ipse** proximitas mihi ferrum sed
-palmas. Naribus Ida villis torrentis modo Clymeneia nullum possit.
-[Mota](http://imgur.com/) paretque vestras ut quae aurea capillis.
-
-> Inpulsos fecunda loquentis, agitant laetis tibi dixit, ullis simulatque cortex
-> Pelori! Arbor sed uberaque repetitaque atque; uno **dea** per spernit vultus
-> venerantur cuspis.
+</h3>

@@ -1,42 +1,17 @@
 ---
 layout: post
-title:  "My third project"
+title:  "CSS3 animation test"
 date:   2016-04-01 14:11:39 +0100
 categories: project
 tags: fa-paint-brush fa-heart
 featured_image: "/images/project_3.png"
 ---
 
-# Ipsa nec
+## Richard Keeling
 
-## Quid omnem proque parentes abdita
+This little CSS animation was just a practice for me using the keyframes extrude property. Nothing fancy but a lot of fun and and the end result is quite impressive.
 
-Lorem markdownum *ossibus amnes inmitibus* fateamur precesque precantia dicere
-vocem illic: rostro auro fatiferum. Stirpe et tenus: haud vela matrona pocula:
-optima suspirat emicat pelagi stabulorum labores conplexus cingens, lyra feres.
-Se vellemque: sancta prohibetis resistite fuit suorum ante inseruitque. Manente
-scopulis, sinat quid inmeriti fine, **latebris** dotalem tamen. Lacrimis Hecate
-tuli, illa canit, resonabat ope mittunt angit, Antigonen munimina.
+<h3>
+    <a href="https://2b8e4c259f96ee0c6b1f2c2ee684038ad9408e18.googledrive.com/host/0ByXEoNSdUD43UjZ2dWxtWlpUQ28/RichardKeeling.html" target="_blank">Click here to view the app</a>
 
-## Tempore Cadmi milite acceptus custodia Iapygis fortia
-
-Manus aquis miscet. Bellique deficis sacras, reicere fratribus Aeacus,
-**oritur** exhortor sparsaque umentes *pennis*, est. Dixit hominem dumque hostia
-et esse longius. Et partem, ingenti verba;
-[urnam](http://kimjongunlookingatthings.tumblr.com/) sicut inpune paternas.
-Illas illa sacra arva invide perdes mutato!
-
-Iaculum erubuit tendo Parrhasis iste, quaque, [suem
-per](http://www.uselessaccount.com/). Fuisse fragmina et tellus deposuit
-Aeoliden et duplex super Tereus, **non astra**.
-
-## Non quin sinuantur caelum inpositum
-
-**Per facit** servat terribilem triplici causamque numinis pietas corpore, annua
-cremata inmitem sim gladios succede ab purpureum. Nasamoniaci buxum taceam
-curru. Auro *ille*, nondum ferrum coloris locum paratus centum Sisyphio Romule
-feruntur ad angue; et desit fluctus. Quid miserata egerit an ignis. Deae voto.
-
-> Quem sinu origo, lumina in est, ad non triennia vices, populandas. Postquam
-> erat [Phoeboque duxisses](http://www.wtfpl.net/) ferrum; deberi flamma
-> paludosa hanc? Nec **in**?
+</h3>
