@@ -44,7 +44,10 @@ $abilities: (
 	'css': 85,
 	'jekyll': 70,
 	'git': 75,
-	'webservice': 95
+	'webservice': 95,
+	'js': 65,
+	'meteor': 40,
+	'react': 40
 );
 
 @each $ability, $score in $abilities {
@@ -62,4 +65,9 @@ $abilities: (
 			animation-fill-mode: forwards;
 		}
 	}
+}
+
+// learning colors
+learning {
+	background: $blue-color;
 }
