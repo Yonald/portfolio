@@ -1,39 +1,17 @@
 ---
 layout: post
-title:  "My first project"
-date:   2016-03-20 14:11:39 +0100
+title:  "Valentines"
+date:   2016-02-14 14:11:39 +0100
 categories: project
 featured: true
 featured_image: "/images/project_1.png"
 tags: fa-paint-brush fa-code
 
 ---
+# Valentines day - 2016
 
-# Erat colatur haec
+I decided that this year since Jess and I have been dating for coming up to 2 years now that I would make her a cute little app to show her how much she means to me (and an excuse to make something for myself!)
 
-## Cuius promptu
+It needed to be responsive since Jess spends more time browsing the internet on the phone than on her desktop.
 
-Lorem markdownum iuncta Scironis nigra subito caudas stemus, suadent nostrumque
-lentosque nescio, prohibente auguror? Retro inicere, et huc Phoci vastator, male
-sequens tecto captus: a, nil ac. Illi qua, aliquem solebat requies dolos
-venabula aperire Iunonis funera quicquam reducere fecit in filia positoque
-fientque. Este novem omnibus ipsa: munus erat deus deiecerat clipeoque
-ingreditur.
-
-    recursion += onNorthbridge.graphicParameter(2, 3, -1) +
-            state_multitasking_card;
-    if (pseudocode.shellPort(gpu_scanner, 4 - -2)) {
-        xpFi.linkedin_flood_fi /= pmuAnd;
-    }
-    var affiliateBooleanPrinter = bridgeOn.requirementsKernel(5,
-            lossless_navigation_keyboard, 5) + edutainmentRipcording + leopard +
-            systray + javascript_logic * newlineMount;
-    var frame_ppp_parse = nullRestore(flash(2), rasterCommercialRate, cmyk);
-    if (directCronVirtual) {
-        bar.aiff(publishing + intranet_rw);
-        shortcutDefinitionRequirements += 3 + zeroGoogleCybercrime(669167);
-        cd_service_dv -= configurationHfs;
-    }
-
-Circumfluit nubibus. Novi potens solidissima fuerat est; ibi tibi [dote
-excipit](http://www.wedrinkwater.com/) magni!
+## [Click here to view the app]{https://f72ccb193b1e71f07d02652e153e76e853ef90dd.googledrive.com/host/0ByXEoNSdUD43dVBnQTJ6TVNIbEU/}
