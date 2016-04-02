@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h2>I am </h2><p>a passionate and enthusiastic Front End Developer with a diverse skill set. I have been working within the eCommerce world for 3 years now and my current job title is a 'Font-end eCommerce & Implementation Manager'.</p>
+<p><span>I am </span>a passionate and enthusiastic Front End Developer with a diverse skill set. I have been working within the eCommerce world for 3 years now and my current job title is a 'Font-end eCommerce & Implementation Manager'.</p>
 
 <p>I liaise with clients from all over the world configuring payment systems enabling them to take card payments and alternative payment methods. These can be over the Internet or IVR solutions (including DTMF suppression). Leading medium to large scale implementations of new clients from inception to live & trading. Working with Developers or locally building web-apps to meet client needs.</p>
 
