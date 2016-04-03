@@ -2,6 +2,14 @@
 
 $shadow: #533d4a;
 
+.container{
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  display: block;
+  position: absolute;
+}
+
 .title {
   font-family: 'Fjalla One', sans-serif;
   display: block;
