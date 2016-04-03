@@ -15,4 +15,4 @@ tags: fa-paint-brush fa-code
 
 Flexbox Froggy is a coding game to help you brush up on flexbox. If you haven’t heard yet, flexbox is a powerful CSS module for positioning that’s available in browsers today, and that will debut in the next major update to Bootstrap. So you’ll want to get familiar with it asap.
 
-<p>See if you can beat <h3><a href="http://flexboxfroggy.com/">Flexbox Froggy!</a></h3> And for an extra challenge, try its spiritual sequel created by Channing Allen, <h3><a href="http://www.flexboxdefense.com/">Flexbox Defense!</a></h3>.</p>
+<p>See if you can beat <span class="post-span"><a href="http://flexboxfroggy.com/">Flexbox Froggy!</a></span> And for an extra challenge, try its spiritual sequel created by Channing Allen, <span class="post-span"><a href="http://www.flexboxdefense.com/">Flexbox Defense!</a></span>.</p>
