@@ -3,7 +3,7 @@ layout: post
 title:  "My second Markdown"
 date:   2016-03-20 14:11:39 +0100
 categories: blog
-featured: true
+featured: false
 tags: fa-paint-brush fa-code
 ---
 

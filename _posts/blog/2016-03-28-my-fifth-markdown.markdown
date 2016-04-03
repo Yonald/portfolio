@@ -3,7 +3,7 @@ layout: post
 title:  "My fifth Markdown"
 date:   2016-03-28 14:11:39 +0100
 categories: blog
-featured: true
+featured: false
 tags: fa-heart
 ---
 
