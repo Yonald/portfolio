@@ -9,7 +9,7 @@ tags: fa-paint-brush fa-code
 
 ## How is your Flexbox?
 
-![Flexbox Froggy]({{ site.baseurl }}/images/flexbox_froggy.png)
+<div class="container">![Flexbox Froggy]({{ site.baseurl }}/images/flexbox_froggy.png)</div>
 
 Flexbox Froggy is a coding game to help you brush up on flexbox. If you haven’t heard yet, flexbox is a powerful CSS module for positioning that’s available in browsers today, and that will debut in the next major update to Bootstrap. So you’ll want to get familiar with it asap.
 
