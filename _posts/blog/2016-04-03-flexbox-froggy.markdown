@@ -9,7 +9,7 @@ tags: fa-paint-brush fa-code
 
 ## How is your Flexbox?
 
-<div class="container">
+<div class="post-img">
 	<img src="{{ site.baseurl }}/images/flexbox_froggy.png" alt="Flexbox Froggy image">
 </div>
 
