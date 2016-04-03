@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Fjalla+One);
 
 $shadow: #533d4a;
+$red: #e55643 ;
+$green: #2b9f5e;
+$yellow: #f1c83c;
 
 .container{
   transform: translate(-50%, -50%);
@@ -22,5 +25,14 @@ $shadow: #533d4a;
     min-width: 10px;
     min-height: 10px;
     position: relative;
+  }
+}
+
+.title {
+  &:nth-child(1){
+    color: $red;
+  }
+  &:nth-child(2){
+    color: $green;
   }
 }
