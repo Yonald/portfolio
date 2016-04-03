@@ -29,10 +29,10 @@ $yellow: #f1c83c;
 }
 
 .title {
-  h1{
+  h1 > a > span{
     color: $yellow;
   }
-  h3{
+   h3 > span{
     color: $green;
   }
 }
