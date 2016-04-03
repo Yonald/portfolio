@@ -29,10 +29,10 @@ $yellow: #f1c83c;
 }
 
 .title {
-  &:nth-child(1){
-    color: $red;
+  h1{
+    color: $yellow;
   }
-  &:nth-child(2){
+  h3{
     color: $green;
   }
 }
