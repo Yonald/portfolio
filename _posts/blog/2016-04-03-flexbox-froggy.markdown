@@ -3,7 +3,7 @@ layout: post
 title:  "Flexbox Froggy"
 date:   2016-04-03 18:00:39 +0100
 categories: blog
-featured: true
+featured: false
 tags: fa-paint-brush fa-code
 ---
 
