@@ -3,7 +3,7 @@ layout: post
 title:  "Random Bootstrap project"
 date:   2016-02-23 20:54:00 +0100
 categories: project
-featured: true
+featured: false
 featured_image: "/images/project_2.png"
 tags: fa-heart
 ---
