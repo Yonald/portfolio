@@ -38,16 +38,16 @@
 
 // SASS map variable
 $abilities: (
-	'photoshop': 90,
+	'photoshop': 70,
 	'ui': 80,
-	'html': 90,
+	'html': 100,
 	'css': 85,
 	'jekyll': 70,
 	'git': 75,
 	'webservice': 95,
-	'js': 65,
+	'js': 70,
 	'meteor': 40,
-	'react': 40
+	'react': 55
 );
 
 @each $ability, $score in $abilities {
