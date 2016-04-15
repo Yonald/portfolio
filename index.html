@@ -9,7 +9,7 @@ layout: default
   <h1>Featured Projects</h1>
   <ul class="project-list">
     {% for project in site.categories['project'] reversed | limit: 3 %}
-      {% if project.featured == true %}
+      {% if project.featured == true and count < 4 %}
         {% include project.html %}
       {% endif %}
     {% endfor %}
