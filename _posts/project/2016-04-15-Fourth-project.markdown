@@ -15,5 +15,5 @@ Here is an example project of using semantic HTML5 to create a cool expanding pa
 I think this would look great as a portfolio piece for a photographer or someone looking to showcase their artistic work.
 
 <h3>
-    <a href="googledrive.com/host/0ByXEoNSdUD43YnFSaWZZRWkxNEU" target="_blank">Click here to view the app</a>
+    <a href="https://45d0e68e4da0a2c9386b77a0d51e254ad3dd6ac7.googledrive.com/host/0ByXEoNSdUD43YnFSaWZZRWkxNEU/" target="_blank">Click here to view the app</a>
 </h3>
