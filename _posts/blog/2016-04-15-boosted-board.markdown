@@ -10,7 +10,7 @@ tags: fa-star
 ## The future is here!
 
 <div class="post-img">
-	<img src="{{ site.baseurl }}/images/boostedboard.png" alt="Boosted Board image">
+	<img src="{{ site.baseurl }}/images/boostedboard.jpg" alt="Boosted Board image">
 </div>
 
 Is it a bird?, is it a plane? Err. No it’s a bloke on an electric skateboard.
